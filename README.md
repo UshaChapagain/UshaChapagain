@@ -91,11 +91,3 @@ I am a web developer who can work with PHP Laravel Framework. I can develop webs
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=UshaChapagain&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
