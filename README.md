@@ -25,17 +25,11 @@ I am a web developer who can work with PHP Laravel Framework. I can develop webs
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Laravel Web Projects.  
   
 
 - 🌱 I’m currently learning React JS.  
-
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>  
 
 <br/>  
 
