@@ -35,11 +35,6 @@ I am a web developer who can work with PHP Laravel Framework. I can develop webs
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://scontent.fpkr1-1.fna.fbcdn.net/v/t39.30808-6/346639279_216971067750258_1942974954104363450_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEZ8Z1ixMJcF_TqQO3rMQsrW9KsuMw08NBb0qy4zDTw0G0p5Y-ajpiIFFS8I4qy3aCLkaNw6BCVTNYfWSymedtr&_nc_ohc=p7nzPIX_bMUAX89Rxos&_nc_ht=scontent.fpkr1-1.fna&oh=00_AfDW5KbCJlupAvCoEwBdoKTYBjRG_oPe37IzZT-CEia08g&oe=648AA5FD" align="center" style="width: 50%" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
