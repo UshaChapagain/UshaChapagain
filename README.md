@@ -18,7 +18,8 @@
 
 
 ### Glad to see you here!  
-I am a web developer who can work with PHP Laravel Framework. I can develop websites with good UI/UX and a well managed backend system along with good implementation of  database logic.  
+QA Engineer passionate about finding bugs, improving software quality, and building reliable test automation. Experienced in Manual Testing, Playwright, Selenium, API Testing, Postman, Swagger, JMeter, and k6. Learning, testing, and improving every day.
+ 
   
 <br/>
 
